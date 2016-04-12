@@ -6,6 +6,9 @@
 \usage{
 getUpdates(offset = NULL)
 }
+\arguments{
+\item{offset}{offset for messages skiping}
+}
 \description{
 Receive incoming updates with necessary offset
 }
