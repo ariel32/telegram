@@ -4,9 +4,9 @@
 \alias{getUpdates}
 \title{getUpdates}
 \usage{
-getUpdates()
+getUpdates(offset = NULL)
 }
 \description{
-Receive incoming updates
+Receive incoming updates with necessary offset
 }
 
