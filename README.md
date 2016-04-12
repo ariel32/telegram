@@ -1,7 +1,7 @@
 # telegram
 
-[![Linux Build Status](https://travis-ci.org/lbraglia/telegram.svg?branch=master)](https://travis-ci.org/lbraglia/telegram)
-[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/lbraglia/telegram?svg=true)](https://ci.appveyor.com/project/lbraglia/telegram)
+[![Linux Build Status](https://travis-ci.org/ariel32/telegram.svg?branch=master)](https://travis-ci.org/ariel32/telegram)
+[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/ariel32/telegram?svg=true)](https://ci.appveyor.com/project/ariel32/telegram)
 [![](http://www.r-pkg.org/badges/version/telegram)](http://www.r-pkg.org/pkg/telegram)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/telegram)](http://www.r-pkg.org/pkg/telegram)
 
